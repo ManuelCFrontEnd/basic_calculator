@@ -29,7 +29,6 @@ body {
 }
 
 .buttons {
-    background-color: #191919;
     color: #f0f0f0;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -37,7 +36,6 @@ body {
 }
 
 .btn {
-    background-color: #191919;
     color: #f0f0f0;
     border: 1px solid #ccc;
     border-radius: 5px;
